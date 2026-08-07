@@ -1,2 +1,4 @@
-# learning_experiments
-This repo is for my expriementing wiht AI and Machine Learning and Data Science and the like
+# Learning Experiments
+
+This repo is for my experimenting with AI and Machine Learning and Data Science and computer science applications in general
+
